@@ -1,0 +1,19 @@
+97f477d3183f2088509beda0c2af83c5ab6e0f54		branch 'master' of https://github.com/peers/peerjs-server
+a64f69ab3859847ffb3fcfe15ee0f62d9e02e7a9	not-for-merge	branch 'allowconcurrent' of https://github.com/peers/peerjs-server
+97b6e71f3f196ec7b0ac4e37ed560ee8ea23f785	not-for-merge	branch 'auth' of https://github.com/peers/peerjs-server
+fde9a3e1eb0d62d48a55c8faf5f3149cab1dcbb5	not-for-merge	branch 'compatibility' of https://github.com/peers/peerjs-server
+5ace48f9e074bdb1d3df77a5668df366a11d2df9	not-for-merge	branch 'events' of https://github.com/peers/peerjs-server
+799299d6697bd67921acbc6271b6c18c58ea47ec	not-for-merge	branch 'feature/brokenConnectionDetection' of https://github.com/peers/peerjs-server
+78c128340823ed4faa2cadd146a6ef35793fa880	not-for-merge	branch 'feature/extendTransferMessages' of https://github.com/peers/peerjs-server
+783fb0a7ed57e2b49af604251235948213eab671	not-for-merge	branch 'fix-binary' of https://github.com/peers/peerjs-server
+83bac028c9e038d89caa08cb2a29a729266f5497	not-for-merge	branch 'issue-301-Dependency_Dashboard' of https://github.com/peers/peerjs-server
+3c96df6af022b584de9c9ad332f383bb6b6a9fec	not-for-merge	branch 'michelle-express-rewrite' of https://github.com/peers/peerjs-server
+2bc18509fbca9885f509f6ff867b485cfaf36d28	not-for-merge	branch 'rc' of https://github.com/peers/peerjs-server
+a7bc7b03d23fb52bd0037f2eb6f6617c83370fd3	not-for-merge	branch 'refactoring/convertToLib' of https://github.com/peers/peerjs-server
+9b15b4b4f37bbb2f5af76c1df3f55da9e746f298	not-for-merge	branch 'refactoring/es' of https://github.com/peers/peerjs-server
+7c23ed83514f1dc58764ba638943c20afd4c3de6	not-for-merge	branch 'refactoring/ts' of https://github.com/peers/peerjs-server
+a2f4266b22c6369b4e7e1a68036ad031103252f5	not-for-merge	branch 'renovate/lock-file-maintenance' of https://github.com/peers/peerjs-server
+ff49ad2b0a361c100d5919176d72dda4e9dadbfd	not-for-merge	branch 'stable' of https://github.com/peers/peerjs-server
+96fd0d0e2b92c67feb383cf8026cbb4d44d10b88	not-for-merge	branch 'v0.2.9' of https://github.com/peers/peerjs-server
+0d264b41198c623a631c551a79f1b6ed67340b1a	not-for-merge	branch 'xhr-rewrite' of https://github.com/peers/peerjs-server
+5affb856d8a1b28f169dabca20aac5630f5cebe5	not-for-merge	branch 'yosssi-master' of https://github.com/peers/peerjs-server
